@@ -1,11 +1,9 @@
 {
-  "name": "wait.for",
-  "version": "0.6.6",
+  "name": "@starksasia/waitfor",
+  "version": "0.0.1",
   "description": "Sequential programming for node.js, end of callback hell",
   "author": {
-    "name": "Lucio Tato",
-    "email": "luciotato@gmail.com",
-    "url": "http://github.com/luciotato"
+    "name": "starksasia",
   },
   "keywords": [
     "fiber",
@@ -23,19 +21,20 @@
     "callback hell",
     "pyramid of doom"
   ],
-  "homepage": "http://github.com/luciotato/waitfor",
+  "homepage": "http://github.com/starksasia/waitfor",
   "license": "Creative Commons, MIT",
-  "bugs": "http://github.com/luciotato/waitfor/issues",
+  "bugs": "http://github.com/starksasia/waitfor/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/luciotato/waitfor.git"
+    "url": "git://github.com/starksasia/waitfor.git"
   },
   "main": "waitfor.js",
   "engines": {
     "node": ">=0.5.2"
   },
   "dependencies": {
-    "fibers": ">=1.0.1"
+    "fibers": ">=1.0.1",
+    "@starksasia/navigator": "^0.0.1"
   },
   "scripts": {
     "test": "node tests"
