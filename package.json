@@ -9,7 +9,6 @@
     "fiber",
     "thread",
     "sync",
-    "async",
     "parallel",
     "worker",
     "future",
