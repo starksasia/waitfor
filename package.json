@@ -1,6 +1,6 @@
 {
   "name": "@starksasia/waitfor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sequential programming for node.js, end of callback hell",
   "author": {
     "name": "starksasia"
