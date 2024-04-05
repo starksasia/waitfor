@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Sequential programming for node.js, end of callback hell",
   "author": {
-    "name": "starksasia",
+    "name": "starksasia"
   },
   "keywords": [
     "fiber",
@@ -16,7 +16,7 @@
     "promise",
     "wait",
     "Wait.for",
-    "callback hell",
+    "callback hell"
   ],
   "homepage": "http://github.com/starksasia/waitfor",
   "license": "Creative Commons, MIT",
