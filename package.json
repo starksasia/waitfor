@@ -7,8 +7,6 @@
   },
   "keywords": [
     "fiber",
-    "fibers",
-    "coroutine",
     "thread",
     "sync",
     "async",
@@ -19,7 +17,6 @@
     "wait",
     "Wait.for",
     "callback hell",
-    "pyramid of doom"
   ],
   "homepage": "http://github.com/starksasia/waitfor",
   "license": "Creative Commons, MIT",
